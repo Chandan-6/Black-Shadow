@@ -1,7 +1,4 @@
 import { Vortex } from "@/components/ui/vortex";
-import reactElementToJSXString from "react-element-to-jsx-string";
-import { toast, Toaster } from "sonner";
-import { ButtonsCard } from "@/components/ui/tailwind-buttons";
 
 export default function Home() {
   return (
